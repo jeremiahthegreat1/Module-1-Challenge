@@ -7,7 +7,10 @@ This project is my first graded assignment for Module 1.  This project involved 
 Visit github repository at https://github.com/jeremiahthegreat1/Module-1-Challenge/tree/main and clone the repo to your own new repository.  
 
 ## Usage
-Visit insert link here. There is a navigation area in the top right that allows you to select links that bring you further down the page, to the applicable content you selected. Add screenshot.
+Visit https://jeremiahthegreat1.github.io/Module-1-Challenge/#social-media-marketing. There is a navigation area in the top right that allows you to select links that bring you further down the page, to the applicable content you selected. 
+
+![A screen capture of the website created](images/site1.png)
+![A second screenshot of the website created](images/site2.png)
 
 ## Credits
 Source/Starter code from Xandromus (Xander Rapstine).  Profile can be found at https://github.com/Xandromus.
